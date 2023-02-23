@@ -23,7 +23,7 @@ Mobile View
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://codepen.io/farmanali6349/pen/ExeKJZz)
 
 ## My process
 
